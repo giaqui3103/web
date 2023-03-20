@@ -12,6 +12,12 @@ img{
     width: 100%;
     height: auto;
 }
+.middle_header-colo {
+    color: #d50808;
+}
+.middle_header-colo1 {
+    color: #636060;
+}
 .header{
   /* background: linear-gradient(0,#483636,#590327); */
   width: 100%;
